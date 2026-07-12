@@ -12,6 +12,6 @@ Analyze the Brazilian Olist e-commerce dataset using PostgreSQL and SQL to answe
 
 ## Project Structure
 - sql/
-- docs/ (Coming Soon)
+- docs/
 - images/ (Coming Soon)
 - dashboard/ (Coming Soon)
