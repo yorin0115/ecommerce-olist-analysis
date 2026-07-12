@@ -11,7 +11,8 @@ Identify the product categories that contribute the most revenue and order volum
 ---
 
 ## Metrics
-| Metric        | Definition |
+| Metric | Definition |
+|---|---|
 | Revenue       | Total product sales amount (excluding freight and cost) |
 | Revenue Share | Percentage of total revenue contributed by each product category |
 | Order Count   | Number of distinct orders containing the product category |
